@@ -4,3 +4,4 @@ C:\Users\home\source\repos\home-work-7\home-work-7\bin\Debug\home-work-7.pdb
 C:\Users\home\source\repos\home-work-7\home-work-7\obj\Debug\try-catch method.csproj.CoreCompileInputs.cache
 C:\Users\home\source\repos\home-work-7\home-work-7\obj\Debug\home-work-7.exe
 C:\Users\home\source\repos\home-work-7\home-work-7\obj\Debug\home-work-7.pdb
+C:\Users\home\source\repos\home-work-7\home-work-7\obj\Debug\try-catch method.csprojAssemblyReference.cache
